@@ -1,4 +1,4 @@
-# 🔧 Alterando o Atalho `Ctrl + T` para `Ctrl + ,` no Firefox
+# Alterando o Atalho `Ctrl + T` para `Ctrl + ,` no Firefox
 
 Este guia mostra como customizar o atalho padrão de **nova aba (`Ctrl + T`)** do Firefox para outro atalho, como **`Ctrl + ,`**, utilizando arquivos de configuração `firefox.cfg` e `autoconfig.js`.
 
